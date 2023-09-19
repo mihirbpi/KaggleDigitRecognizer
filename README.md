@@ -1,5 +1,5 @@
 # KaggleDigitRecognizer
-Kaggle has an ongoing machine learning competition where users compete to predict the labels of handwritten digits from the MNIST dataset with the most accuracy. I am currently participating in the competition and using it as a way to learn the PyTorch machine learning library. So far my best model is a CNN that has an accuracy of `98.9%` on Kaggle's MNIST test set.
+Kaggle has an ongoing machine learning competition where users compete to predict the labels of handwritten digits from the MNIST dataset with the most accuracy. I am currently participating in the competition and using it as a way to learn the PyTorch machine learning library. So far my best model is a CNN that has an accuracy of `99.15%` on Kaggle's MNIST test set.
 
 As part of this I learned the basics of PyTorch including:
  - Working with tensors
