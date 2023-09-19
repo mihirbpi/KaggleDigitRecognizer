@@ -4,7 +4,7 @@ Kaggle has an ongoing machine learning competition where users compete to predic
 As part of this I learned the basics of PyTorch including:
  - Working with tensors
  - Using the DataLoader and Dataset classes to make my own custom datasets
- - Defining a custom model (both ANNs and CNNs) 
+ - Defining a custom model (both vanilla NNs and CNNs) 
  - Data augmentation for images
  - Training a model over multiple epochs with batches and Adam
  - Validating the model with a validation set
